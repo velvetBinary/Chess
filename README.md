@@ -1,6 +1,6 @@
 #  Chess GUI with AI, Undo, Dark Mode & More
 
-Welcome to **Chess**, a fully-featured Python-based chess game built with `tkinter`. Whether you're a casual player or a future grandmaster, this app has you covered — from stylish themes to AI opponents.
+Welcome to **Chess**, a fully-featured Python-based chess game built with `tkinter`. Whether you're a casual player or a future grandmaster, this is where you begin ;)
 
 ---
 
